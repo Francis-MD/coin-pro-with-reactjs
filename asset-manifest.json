@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coin-pro-with-reactjs/static/css/main.d6519f64.css",
+    "main.js": "/coin-pro-with-reactjs/static/js/main.98792260.js",
+    "static/media/trade.png": "/coin-pro-with-reactjs/static/media/trade.c36d0bc69e55dfa0ff84.png",
+    "static/media/hero-img.svg": "/coin-pro-with-reactjs/static/media/hero-img.893d146e4cd289eb82cfb8dc983e60a2.svg",
+    "index.html": "/coin-pro-with-reactjs/index.html",
+    "main.d6519f64.css.map": "/coin-pro-with-reactjs/static/css/main.d6519f64.css.map",
+    "main.98792260.js.map": "/coin-pro-with-reactjs/static/js/main.98792260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6519f64.css",
+    "static/js/main.98792260.js"
+  ]
+}
